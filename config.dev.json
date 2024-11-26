@@ -39,7 +39,7 @@
     ],
     "notes": "If enabled, only the IDs in whiteListIds can use the bot."
   },
-  "nickNameBot": "🤖 𝗢𝗿𝗼𝗰𝗵𝗶 𝗕𝗲𝘀𝘁𝗯𝗼𝘁",
+  "nickNameBot": "Hello Bhabhi Ji 😙",
   "prefix": ".",
   "database": {
     "type": "mongodb",
